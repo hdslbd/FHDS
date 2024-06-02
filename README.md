@@ -1,4 +1,29 @@
 # Foundations of Health Data Science (FHDS)
+## Basic Information
+
+| Key               | Detail                                         |
+|-------------------|------------------------------------------------|
+| Title             | Foundations of Health Data Science (FHDS)                                             |
+| Session           | 2024-24 (Cohort 01)                            |
+| Credit            | University 4 Credit Hour Equivalent             |
+| Level             | Beginners to Advance                           |
+| Number of Classes | 25                                              |
+| Course Type       | Online Live Session (Zoom) – Recording will be provided |
+| Mode of Instruction | Bangla                                         |
+| Class Start       | July 1, 2024                                   |
+| Class Time        | 9:00 pm – 10:30 pm (complete schedule will be available soon) |
+
+## Course Team
+
+| Role              | Name                 | Position & Affiliation |
+|-------------------|----------------------|------------------------|
+| Lead Organizer & Instructor | Md. Jubayer Hossain | Founder & Executive Director, CHIRAL Bangladesh |
+| Instructor        | Tasmim Rahman Adib   | Backend Engineer, Health Data Science Lab, CHIRAL; Software Engineer, Penta Global Limited; Computer Science and Engineering, University of Dhaka |
+| Instructor        | Muhibullah Shahjahan | Research Assistant, Bioinformatics Division, CHIRAL Bangladesh; Department of Microbiology, Jagannath University |
+| Instructor        | Md. Mahadi Hassan    | Research Assistant, Health Data Science Lab, CHIRAL; Public Health & Informatics, Jahangirnagar University |
+| Teaching Assistant| Md Kaif Ibn Zaman    | Computer Science and Engineering, Jahangirnagar University; Junior Research Assistant, Health Data Science Lab, CHIRAL |
+| Teaching Assistant| Rakibul Hasan        | Research Assistant, Health Data Science Lab, CHIRAL |
+
 
 ## Course Overview
 Foundations of Health Data Science (FHDS) is an interdisciplinary course designed to introduce students to the fundamental concepts, methodologies, and applications of data science in the context of healthcare and public health. This course provides a comprehensive understanding of how data science techniques can be leveraged to extract valuable insights, improve patient outcomes, and inform decision making in healthcare settings.
@@ -105,6 +130,17 @@ Academic honesty is expected at all times. Academic dishonesty includes claiming
 
 ## Policy on Make-Up Work
 Participants are allowed to make up assignments **ONLY** as the result of illness or other unanticipated circumstances warranting a medical excuse and resulting in the student missing homework or exam, consistent with CHIRAL policy. Documentation from a health care provider is required. For any other non-medical reason, assignments missed will receive a penalty of 10 points per day after the due date, and the mid-exam missed will receive a zero point.
+
+### Copyright Notice
+
+© 2024 Md. Jubayer Hossain and CHIRAL Bangladesh. All rights reserved.
+
+No part of this course materials, including lectures, text, images, and videos, may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law. For permission requests, write to the course publisher, addressed “Attention: Permissions Coordinator,” at the address below.
+
+Md. Jubayer Hossain
+Founder & Executive Director 
+CHIRAL Bangladesh
+Email: contact.jubayerhossain@gmail.com
 
 
 
