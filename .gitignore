@@ -11,7 +11,8 @@ slides/
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-*/.jupyter/desktop-workspaces
+*/.jupyter/desktop-workspaces/*
+
 # IPython
 profile_default/
 ipython_config.py
